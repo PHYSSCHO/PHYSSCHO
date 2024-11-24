@@ -55,5 +55,4 @@ My journey is fueled by curiosity, innovation, and resilience, aiming to safegua
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 
