@@ -1,12 +1,11 @@
 # Hello, I'm TAMAMUZZAD LINALISSALSABIIIL
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+INTRODUCTION
 
 I am,As a high school student driven by an unyielding passion for cybersecurity and artificial intelligence, I envision becoming a pioneer in shaping the future of secure digital ecosystems.
 
 ## VISI - MISSIOON
-[Provide Objective - ]
 
 My journey is fueled by curiosity, innovation, and resilience, aiming to safeguard digital assets while empowering individuals and businesses in an era dominated by technology. By mastering the realms of cybersecurity and AI, I aspire to merge creativity with technical expertise, creating solutions that not only protect but inspire trust in a digitally interconnected world."
 
