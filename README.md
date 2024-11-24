@@ -5,7 +5,7 @@ INTRODUCTION
 
 I am,As a high school student driven by an unyielding passion for cybersecurity and artificial intelligence, I envision becoming a pioneer in shaping the future of secure digital ecosystems.
 
-## VISI - MISSIOON
+## VISI - MISSION
 
 My journey is fueled by curiosity, innovation, and resilience, aiming to safeguard digital assets while empowering individuals and businesses in an era dominated by technology. By mastering the realms of cybersecurity and AI, I aspire to merge creativity with technical expertise, creating solutions that not only protect but inspire trust in a digitally interconnected world."
 
@@ -45,7 +45,7 @@ My journey is fueled by curiosity, innovation, and resilience, aiming to safegua
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
