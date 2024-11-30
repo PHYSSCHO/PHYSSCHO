@@ -1,7 +1,7 @@
 # Hello, I'm TAMAMUZZAD LINALISSALSABIIIL
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-INTRODUCTION
+#INTRODUCTION
 
 I am,As a high school student driven by an unyielding passion for cybersecurity and artificial intelligence, I envision becoming a pioneer in shaping the future of secure digital ecosystems.
 
@@ -22,7 +22,6 @@ My journey is fueled by curiosity, innovation, and resilience, aiming to safegua
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
