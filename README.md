@@ -1,7 +1,7 @@
 # Hello, I'm TAMAMUZZAD LINALISSALSABIIIL
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-#INTRODUCTION
+ INTRODUCTION
 
 I am,As a high school student driven by an unyielding passion for cybersecurity and artificial intelligence, I envision becoming a pioneer in shaping the future of secure digital ecosystems.
 
@@ -23,7 +23,7 @@ My journey is fueled by curiosity, innovation, and resilience, aiming to safegua
 
 ## Tools
 
-### Network
+### PROGRAMMING 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
